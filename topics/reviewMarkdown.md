@@ -1,7 +1,7 @@
 # Review Markdown
 
 ### Review Markdown
-* Markdown is a scripting lanuages
+* Markdown is a programming lanuages
 * used for ducumentation
 - another way to list
 
